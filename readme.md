@@ -1,4 +1,4 @@
-# Webpack THREE.js Template
+# Rubik-cube
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,4 +14,3 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-# rubik-cube
